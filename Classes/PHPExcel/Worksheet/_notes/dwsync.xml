@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseDrawing.php" server="C:/xampp/htdocs/recoleccion/" local="132209875454735174" remote="132209875450000000" Dst="1" />
+<file name="CellIterator.php" server="C:/xampp/htdocs/recoleccion/" local="132209875451450699" remote="132209875450000000" Dst="1" />
+<file name="ColumnDimension.php" server="C:/xampp/htdocs/recoleccion/" local="132209875450942053" remote="132209875450000000" Dst="1" />
+<file name="Drawing.php" server="C:/xampp/htdocs/recoleccion/" local="132209875447737407" remote="132209875440000000" Dst="1" />
+<file name="HeaderFooter.php" server="C:/xampp/htdocs/recoleccion/" local="132209875447986732" remote="132209875440000000" Dst="1" />
+<file name="HeaderFooterDrawing.php" server="C:/xampp/htdocs/recoleccion/" local="132209875444403315" remote="132209875440000000" Dst="1" />
+<file name="MemoryDrawing.php" server="C:/xampp/htdocs/recoleccion/" local="132209875443904737" remote="132209875440000000" Dst="1" />
+<file name="PageMargins.php" server="C:/xampp/htdocs/recoleccion/" local="132209875440526756" remote="132209875440000000" Dst="1" />
+<file name="PageSetup.php" server="C:/xampp/htdocs/recoleccion/" local="132209875441125170" remote="132209875440000000" Dst="1" />
+<file name="Protection.php" server="C:/xampp/htdocs/recoleccion/" local="132209875435240716" remote="132209875430000000" Dst="1" />
+<file name="Row.php" server="C:/xampp/htdocs/recoleccion/" local="132209875434772358" remote="132209875430000000" Dst="1" />
+<file name="RowDimension.php" server="C:/xampp/htdocs/recoleccion/" local="132209875431538709" remote="132209875430000000" Dst="1" />
+<file name="RowIterator.php" server="C:/xampp/htdocs/recoleccion/" local="132209875431808372" remote="132209875430000000" Dst="1" />
+<file name="SheetView.php" server="C:/xampp/htdocs/recoleccion/" local="132209875428001817" remote="132209875420000000" Dst="1" />
+<file name="BaseDrawing.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875454735174" remote="132209839450000000" Dst="2" />
+<file name="CellIterator.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875451450699" remote="132209839450000000" Dst="2" />
+<file name="ColumnDimension.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875450942053" remote="132209839450000000" Dst="2" />
+<file name="Drawing.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875447737407" remote="132209839440000000" Dst="2" />
+<file name="HeaderFooter.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875447986732" remote="132209839440000000" Dst="2" />
+<file name="HeaderFooterDrawing.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875444403315" remote="132209839440000000" Dst="2" />
+<file name="MemoryDrawing.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875443904737" remote="132209839440000000" Dst="2" />
+<file name="PageMargins.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875440526756" remote="132209839440000000" Dst="2" />
+<file name="PageSetup.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875441125170" remote="132209839440000000" Dst="2" />
+<file name="Protection.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875435240716" remote="132209839430000000" Dst="2" />
+<file name="Row.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875434772358" remote="132209839430000000" Dst="2" />
+<file name="RowDimension.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875431538709" remote="132209839430000000" Dst="2" />
+<file name="RowIterator.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875431808372" remote="132209839430000000" Dst="2" />
+<file name="SheetView.php" server="C:/xampp1/htdocs/recoleccion/" local="132209875428001817" remote="132209839420000000" Dst="2" />
+</dwsync>

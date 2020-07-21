@@ -1,0 +1,59 @@
+2020-02-04 23:19:51
+
+
+2020-02-04 23:19:59
+{"update_id":911210059,
+"message":{"message_id":10,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580858398,"text":"dss"}}
+
+2020-02-04 23:54:41
+
+
+2020-02-04 23:54:49
+{"update_id":911210069,
+"message":{"message_id":23,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580860489,"text":"test"}}
+
+2020-02-04 23:56:17
+{"update_id":911210070,
+"message":{"message_id":24,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580860576,"text":"s"}}
+
+2020-02-04 23:57:56
+
+
+2020-02-04 23:58:04
+
+
+2020-02-04 23:58:10
+{"update_id":911210071,
+"message":{"message_id":27,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580860690,"text":"test"}}
+
+2020-02-05 00:00:34
+{"update_id":911210072,
+"message":{"message_id":29,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580860833,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2020-02-05 00:05:12
+{"update_id":911210073,
+"message":{"message_id":31,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580861111,"text":"hola"}}
+
+2020-02-05 00:05:19
+{"update_id":911210074,
+"message":{"message_id":32,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580861117,"text":"/fecha","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2020-02-05 00:06:10
+{"update_id":911210075,
+"message":{"message_id":33,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580861170,"text":"test"}}
+
+2020-02-05 02:05:34
+{"update_id":911210076,
+"message":{"message_id":35,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580868333,"text":"Hola"}}
+
+2020-02-05 02:05:45
+{"update_id":911210077,
+"message":{"message_id":37,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580868345,"text":"/fecha","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+2020-02-05 03:39:39
+{"update_id":911210078,
+"message":{"message_id":39,"from":{"id":798478967,"is_bot":false,"first_name":"Ricardo","last_name":"Archundia","language_code":"es"},"chat":{"id":798478967,"first_name":"Ricardo","last_name":"Archundia","type":"private"},"date":1580873978,"text":"Hdhd"}}
+
+2020-02-05 15:20:28
+
+
